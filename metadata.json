@@ -1,0 +1,6 @@
+{
+  "name": "Symptom Checker & Appointment Reminder",
+  "description": "A full-stack health companion for rule-based symptom triage and appointment scheduling with secure user accounts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
